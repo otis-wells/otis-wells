@@ -1,5 +1,5 @@
-# otis-wells
-Hi, I'm a Cybersecurity Professional 👋
+# Otis Wells | Technical Graduate | Cybersecurity Professional
+<H1>Hi, I'm a Cybersecurity Professional 👋</H1>
 
 Cybersecurity graduate with a First-Class Honours degree in Cybersecurity and Computer Networking and experience across enterprise security operations, data security and security risk management.
 
@@ -9,7 +9,7 @@ Currently developing my technical portfolio through hands-on security engineerin
 
 <br>
 
-🛡️ Areas of Focus
+<h2>🛡️ Areas of Focus</h2>
 
 Security Operations & Detection Engineering — SIEM, alert triage, threat hunting and incident investigation.
 
@@ -23,7 +23,7 @@ Security Engineering & Risk — Threat modelling, MITRE ATT&CK, security control
 
 <br>
 
-🎓 Background
+<h2>🎓 Background</h2>
 
 BSc (Hons) Cybersecurity and Computer Networking — First-Class Honours
 
@@ -35,7 +35,7 @@ Alongside my technical development, I bring experience in customer-facing operat
 
 <br>
 
-📈 What I'm Working Towards
+<h2>📈 What I'm Working Towards</h2>
 
 Building practical, well-documented cybersecurity projects.
 
