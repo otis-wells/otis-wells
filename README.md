@@ -1,4 +1,4 @@
-# otis.-wells
+# otis-wells
 Hi, I'm a Cybersecurity Professional 👋
 
 Cybersecurity graduate with a First-Class Honours degree in Cybersecurity and Computer Networking and experience across enterprise security operations, data security and security risk management.
