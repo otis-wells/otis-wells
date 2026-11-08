@@ -44,7 +44,7 @@ Currently developing my technical portfolio through hands-on security engineerin
 
 🔭 &nbsp;**Recent Project** → [Mini SOC](https://github.com/otis-wells/azure-mini-soc-lab)  
 🌱 &nbsp;**Researching** → AI safety and use cases within Cybersecurity  
-👯 &nbsp;**Collaborate** → [LinkedIn](https://www.linkedin.com/in/otis-wells/)  
+👯 &nbsp;**Collaborate** → [LinkedIn](https://www.linkedin.com/in/otiswells/)  
 💬 &nbsp;**Ask me** → Penetration Testing · Networking · DLP · Security Monitoring  
 ⚡ &nbsp;**Facts** → Analytical · Curious · Ambitious · Methodical · Driven
 
