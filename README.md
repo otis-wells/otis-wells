@@ -48,8 +48,6 @@ Currently developing my technical portfolio through hands-on security engineerin
 🤝 &nbsp;**Help with** → [Placeholder]()  
 📝 &nbsp;**Writing at** → [Placeholder]()  
 💬 &nbsp;**Ask me** → Penetration Testing · Networking · DLP · Security Monitoring  
-📫 &nbsp;**Reach me** → otis.wells@outlook.com  
-📄 &nbsp;**Resume** → [CV]()  
 ⚡ &nbsp;**Facts** → Analytical · Curious · Ambitious · Methodical · Driven
 
 
@@ -86,12 +84,11 @@ Currently developing my technical portfolio through hands-on security engineerin
 </tr>
 </table>
 
+<br>
 
 <!-- ░░░░░░ LANGUAGES & TOOLS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=99999&color=cc0000&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=480&height=27&lines=%E2%96%BA+LANGUAGES+AND+TOOLS+" alt="label"/>
-
-<br/>
+## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=99999&color=cc0000&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=360&height=27&lines=%E2%96%BA+LANGUAGES+AND+TOOLS" alt="label"/>
 
 <div align="left">
 
@@ -138,23 +135,14 @@ Currently developing my technical portfolio through hands-on security engineerin
 </div>
 
 
-<!-- ░░░░░░ CONNECT — ALL SOCIAL ONE LINE ░░░░░░░░░░░░░░░░░░░░░░ -->
+<br>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=99999&color=cc0000&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=360&height=27&lines=%E2%96%BA+CONNECT+WITH+ME" alt="label"/>
 
-<br/>
-
-<div align="left">
-<a href="https://www.linkedin.com/in/otis-wells/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" height="26"/></a>
-<a href="mailto:otis.wells@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=flat-square" height="26"/></a>
-  
-</div>
 
 <!-- ░░░░░░ QUOTES ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=99999&color=cc0000&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=360&height=27&lines=%E2%96%BA+Quotes" alt="label"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=99999&color=cc0000&background=FFFFFF00&center=false&vCenter=true&repeat=false&width=360&height=27&lines=%E2%96%BA+QUOTES" alt="label"/>
 
-<br/>
 
 
 <div align="left">
@@ -168,9 +156,6 @@ Currently developing my technical portfolio through hands-on security engineerin
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=36&pause=1800&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=Hello%2C+friend.;Curiosity+is+where+it+all+begins.;Question+everything.+Trust+nothing.;Every+system+has+a+story.;There+is+always+more+beneath+the+surface.;The+learning+never+stops.;See+you+on+the+other+side." alt="Hello Friend Footer"/>
 
-<br/>
-
-·&nbsp; otis.wells@outlook.com
 
 <br/>
 
